@@ -1,7 +1,7 @@
 {
-  "name": "adventus-admin-portal",
+  "name": "kubera-admin-portal",
   "version": "1.0.0",
-  "description": "Adventus Admin Portal - Complete recruiter management system",
+  "description": "Kubera Admin Portal - Complete recruiter management system",
   "main": "server/index.js",
   "scripts": {
     "install-all": "npm install && cd client && npm install",
@@ -11,7 +11,7 @@
     "build": "cd client && npm run build",
     "start": "cd server && node index.js"
   },
-  "keywords": ["adventus", "admin", "portal", "recruiter"],
+  "keywords": ["kubera", "admin", "portal", "recruiter"],
   "author": "",
   "license": "MIT",
   "devDependencies": {
