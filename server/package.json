@@ -1,7 +1,7 @@
 {
-  "name": "adventus-backend",
+  "name": "kubera-backend",
   "version": "1.0.0",
-  "description": "Backend API for Adventus Admin Portal",
+  "description": "Backend API for Kubera Admin Portal",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
