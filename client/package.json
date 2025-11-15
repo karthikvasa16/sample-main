@@ -1,7 +1,7 @@
 {
-  "name": "adventus-frontend",
+  "name": "kubera-frontend",
   "version": "1.0.0",
-  "description": "Frontend for Adventus Admin Portal",
+  "description": "Frontend for Kubera Admin Portal",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
